@@ -1,0 +1,15 @@
+<openpnp-parts>
+   <part id="FIDUCIAL-HOME" name="Homing Fiducial - Do Not Delete" height-units="Millimeters" height="0.0" package-id="FIDUCIAL-HOME" speed="1.0" pick-retry-count="0"/>
+   <part id="LED_0805_Kingbright_APT2012-POS" height-units="Millimeters" height="0.0" package-id="LED_0805_Kingbright_APT2012" speed="1.0" pick-retry-count="0"/>
+   <part id="LED_0805_Kingbright_APT2012-NEG" height-units="Millimeters" height="0.0" package-id="LED_0805_Kingbright_APT2012" speed="1.0" pick-retry-count="0"/>
+   <part id="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder-10uF" height-units="Millimeters" height="0.8" package-id="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" height-units="Millimeters" height="0.4" package-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-12pF" height-units="Millimeters" height="0.4" package-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="DIODE_SOD-123_SOD-123F-BARRIER" height-units="Millimeters" height="1.0" package-id="DIODE_SOD-123_SOD-123F" speed="1.0" pick-retry-count="0"/>
+   <part id="L_0603_1608Metric_Pad1.05x0.95mm_HandSolder-BEAD" height-units="Millimeters" height="0.4" package-id="L_0603_1608Metric_Pad1.05x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" height-units="Millimeters" height="0.4" package-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" height-units="Millimeters" height="0.4" package-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1.5k" height-units="Millimeters" height="0.4" package-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1k" height-units="Millimeters" height="0.4" package-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" speed="1.0" pick-retry-count="0"/>
+   <part id="TSSOP-14_4.4x5mm_P0.65mm-OPA4991" height-units="Millimeters" height="1.2" package-id="TSSOP-14_4.4x5mm_P0.65mm" speed="1.0" pick-retry-count="0"/>
+</openpnp-parts>

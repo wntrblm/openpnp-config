@@ -1,0 +1,195 @@
+<openpnp-board version="1.1" name="Helium2.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <fiducials/>
+   <placements>
+      <placement version="1.4" id="D3" side="Top" part-id="LED_0805_Kingbright_APT2012-POS" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-21.2" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D4" side="Top" part-id="LED_0805_Kingbright_APT2012-NEG" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.0" y="-21.2" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D5" side="Top" part-id="LED_0805_Kingbright_APT2012-POS" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-45.7" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D6" side="Top" part-id="LED_0805_Kingbright_APT2012-NEG" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.0" y="-45.7" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D7" side="Top" part-id="LED_0805_Kingbright_APT2012-POS" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-70.5" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D8" side="Top" part-id="LED_0805_Kingbright_APT2012-NEG" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.0" y="-70.5" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D9" side="Top" part-id="LED_0805_Kingbright_APT2012-POS" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-94.9" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D10" side="Top" part-id="LED_0805_Kingbright_APT2012-NEG" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.0" y="-94.9" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C1" side="Bottom" part-id="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder-10uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="18.05" y="-21.3" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C2" side="Bottom" part-id="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder-10uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="1.95" y="-21.3" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C3" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-13.69" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C4" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-26.09" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C5" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.87" y="-39.65" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C6" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-52.1" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C7" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="10.0" y="-64.6" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C8" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="10.0" y="-77.5" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C9" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-88.4" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C10" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-0.1uF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-101.9" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C11" side="Bottom" part-id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder-12pF" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-101.9" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D1" side="Bottom" part-id="DIODE_SOD-123_SOD-123F-BARRIER" type="Placement" enabled="true">
+         <location units="Millimeters" x="1.95" y="-16.4" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D2" side="Bottom" part-id="DIODE_SOD-123_SOD-123F-BARRIER" type="Placement" enabled="true">
+         <location units="Millimeters" x="18.1" y="-16.4" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FB1" side="Bottom" part-id="L_0603_1608Metric_Pad1.05x0.95mm_HandSolder-BEAD" type="Placement" enabled="true">
+         <location units="Millimeters" x="1.75" y="-11.9" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FB2" side="Bottom" part-id="L_0603_1608Metric_Pad1.05x0.95mm_HandSolder-BEAD" type="Placement" enabled="true">
+         <location units="Millimeters" x="18.25" y="-11.75" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R1" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.9" y="-13.69" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R2" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.9" y="-26.1" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R3" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.9" y="-26.1" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R4" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.6" y="-88.4" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R5" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.87" y="-39.65" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R6" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.9" y="-52.1" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R7" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.8" y="-52.1" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R8" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.1" y="-88.4" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R9" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1.5k" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.5" y="-13.7" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R10" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1.5k" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.4" y="-39.6" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R11" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1.5k" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.7" y="-64.6" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R12" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.9" y="-64.6" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R13" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.0" y="-77.5" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R14" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-50R" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.0" y="-77.5" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R15" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="3.0" y="-88.4" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R16" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1.5k" type="Placement" enabled="true">
+         <location units="Millimeters" x="7.6" y="-101.9" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R17" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-1k" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.7" y="-101.9" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R18" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="5.3" y="-88.4" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R19" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="5.3" y="-101.9" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R20" side="Bottom" part-id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder-100k" type="Placement" enabled="true">
+         <location units="Millimeters" x="14.4" y="-101.9" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U1" side="Bottom" part-id="TSSOP-14_4.4x5mm_P0.65mm-OPA4991" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.9" y="-19.89" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U2" side="Bottom" part-id="TSSOP-14_4.4x5mm_P0.65mm-OPA4991" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.87" y="-45.85" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U4" side="Bottom" part-id="TSSOP-14_4.4x5mm_P0.65mm-OPA4991" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.94" y="-70.94" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U6" side="Bottom" part-id="TSSOP-14_4.4x5mm_P0.65mm-OPA4991" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.87" y="-94.93" z="0.0" rotation="270.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+   </placements>
+   <solder-paste-pads/>
+</openpnp-board>

@@ -1,0 +1,60 @@
+<openpnp-packages>
+   <package version="1.1" id="FIDUCIAL-1X2" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0">
+         <pad name="1" x="0.0" y="0.0" width="0.5" height="0.5" rotation="0.0" roundness="100.0"/>
+      </footprint>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" id="FIDUCIAL-HOME" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0">
+         <pad name="FID" x="0.0" y="0.0" width="1.0012156736844042" height="1.0012156736844042" rotation="0.0" roundness="100.0"/>
+      </footprint>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList"/>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c8600474033" id="LED_0805_Kingbright_APT2012" tape-specification="8mm" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb68db41a56413" id="C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" tape-specification="8mm" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c782e873227" id="C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" tape-specification="8mm" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c81cd5ee510" id="DIODE_SOD-123_SOD-123F" tape-specification="8mm black" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+         <string>TIP16b1a61b09e0c660</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c7b464309a1" id="L_0603_1608Metric_Pad1.05x0.95mm_HandSolder" tape-specification="8mm paper" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c69dfced969" id="R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" tape-specification="8mm" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="0.0" body-height="0.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+   <package version="1.1" bottom-vision-id="BVS16fb9c87fde28c9a" id="TSSOP-14_4.4x5mm_P0.65mm" tape-specification="12mm" pick-vacuum-level="0.0" place-blow-off-level="0.0">
+      <footprint units="Millimeters" body-width="7.0" body-height="5.0"/>
+      <compatible-nozzle-tip-ids class="java.util.ArrayList">
+         <string>TIP16b1a61b09e0c660</string>
+         <string>NT1</string>
+      </compatible-nozzle-tip-ids>
+   </package>
+</openpnp-packages>
